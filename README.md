@@ -28,9 +28,13 @@ o No. of matches hosted by different cities
 o Lucky stadium for the topmost team
 
 # Challenges and Learnings :-
+
 Data Analysis: Extracting insights from data hones your analytical skills and gives you practical experience in drawing conclusions.
+
 Data Cleaning: Real-world datasets often have missing or inconsistent data. Cleaning and preparing the data for analysis can be time-consuming.
+
 Data Interpretation: Translating raw data into meaningful insights requires domain knowledge about cricket and IPL.
+
 Problem Solving: Addressing challenges boosts problem-solving abilities as you find ways to overcome hurdles.
 
 # Conclusions:- 
